@@ -1,0 +1,4 @@
+Basically design a rate limiter service, that can be pinged by actual web services before executing ops.
+This rate limiter ping must be lightning fast, so it don't mess with the speed too much. Not that this solution does not exist in the world, I am just letting my mind run wild and do a small project is all.
+Build barebones ping first in TypeScript. Later port the same in Go and Java.
+TS cause, that is what I am coding currntly in. Go/Java port for employability, interview showcase.
